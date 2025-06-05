@@ -1,0 +1,24 @@
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Git
+.git
+.gitignore
+
+# Base de données
+*.sqlite3
+
+# Autres
+.DS_Store
+*.swp
+*.swo
+.vscode/
+profile_pics/
+*.pdf 
